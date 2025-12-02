@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @viraj2252
 - 👀 I’m interested in .net core, NodeJs, TS, React, Flutter, Python
-- 🌱 I’m currently learning Flutter, Machine-Learning
 - 💞️ I’m looking to collaborate on Security, ML, Architecture
 
 <!---
